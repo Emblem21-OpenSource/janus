@@ -14,7 +14,7 @@ Anonymous political participation means participating in political discourse whi
 
 Theory
 ======
-The concept of identity is commonly understood to be something that is self-defined.  For example, for the American census, race and ethnicity data is mostly self-reported.  Academia and activists have worked to expanded this self-reporting activity to include gender as well.  The entire premise of this mechanism of identity is that the self is the ultimate authority about itself.  It also allows for the creation of an infinite stream of identities to validate nearly any activity.  Because of this, this theory of identity is circular and unfalsifiable, and thus, is more similar to Bronze Age religions than reality.
+The concept of identity is commonly understood to be something that is self-defined.  For example, for the American census, race and ethnicity data is mostly self-reported.  Academia and activists have worked to expand this self-reporting activity to include gender as well.  The entire premise of this mechanism of identity is that the self is the ultimate authority about itself.  It also allows for the creation of an infinite stream of identities to validate nearly any activity.  Because of this, this theory of identity is circular and unfalsifiable, and thus, is more similar to Bronze Age religions than reality.
 
 Janus Engine operates on a different assumption: *Identity is the cross-section between the surface area of content interaction and an inspection strategy.*  Curiously, this interaction appears in other contexts of validation as well:
 
