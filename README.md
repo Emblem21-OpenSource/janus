@@ -3,6 +3,34 @@ The Janus Engine
 
 The Janus Engine seeks to exploit human psychology to make anonymous political participation more profitable than the curated ideology gardens that power contemporary Internet media consumption.  Please review the [project's philosophy](PHILOSOPHY.md) to understand the nature of this challenge.
 
+Requirements:
+=============
+* Node
+* Nginx
+
+Getting Started
+===============
+To begin building an anonymous project, run this command:
+```
+wget -qOnew https://raw.githubusercontent.com/Emblem21/janus-prototype/master/new && chmod +x new && ./new
+```
+
+This will build a Janus prototype for your project which contains fully these fully configured modules:
+
+* [pm2](https://github.com/Unitech/pm2) for monitoring and persistence
+* [gulp](https://github.com/gulpjs/gulp) for web asset pipeline management
+* [async](https://github.com/caolan/async) for workflow manipulation
+* [lodash](https://github.com/lodash/lodash) for array manipulation
+* [jasmine](https://github.com/mhevery/jasmine-node) for unit and integration testing
+* [sequelize](https://github.com/sequelize/sequelize) for ORM
+* [commander.js](https://github.com/tj/commander.js) for CLI
+* [janus-token](https://github.com/Emblem21/janus-token) for anonymous authentication
+* [janus-shuffle](https://github.com/Emblem21/janus-shuffle) for key-based string shuffling
+* [janus-transaction](https://github.com/Emblem21/janus-transaction) for transactional rollback workflows
+* [supertest](https://github.com/visionmedia/supertest) with the Janus Test suite that allows for multiple supertest agents in the same test!
+
+We borrow heavily from SailsJS file organization. Models, Controllers, Services, Policy, and Response definitions are extremely similar in usage. Routes and policy wiring have been merged into the same file.
+
 Anonymous Political Participation
 =================================
 
