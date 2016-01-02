@@ -12,7 +12,7 @@ Getting Started
 ===============
 To begin building an anonymous project, run this command:
 ```
-wget -qOnew https://raw.githubusercontent.com/Emblem21/janus-prototype/master/new && chmod +x new && ./new
+wget -qOnew https://raw.githubusercontent.com/Emblem21/janus-prototype/master/new && chmod +x new && ./new && rm new
 ```
 
 This will build a Janus prototype for your project which contains fully these fully configured modules:
